@@ -7,8 +7,4 @@ This repository holds projects done for the course AMATH 482: Computational Meth
        part(2) Baisc Machine Learning on the application on music genre classification
 - hw5: background subtraction from vedio with Dynamic Mode Decompostion
        
-
-
-![fre_center](https://user-images.githubusercontent.com/32350392/109906553-b6336380-7c6e-11eb-8290-580de85bce56.png)
-![fre_center2](https://user-images.githubusercontent.com/32350392/109906559-b7fd2700-7c6e-11eb-9d3a-4d8339b77c4c.png)
-![path](https://user-images.githubusercontent.com/32350392/109906561-b92e5400-7c6e-11eb-8922-ab4aaeaa3b6b.png)
+<img width="501" alt="hw1" src="https://user-images.githubusercontent.com/32350392/109906614-d06d4180-7c6e-11eb-8bdd-fefac2feef38.png">
