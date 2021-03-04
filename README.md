@@ -1,4 +1,3 @@
-<img width="511" alt="Screen Shot 2021-03-03 at 10 22 40 PM" src="https://user-images.githubusercontent.com/32350392/109906704-fa266880-7c6e-11eb-8862-9957ef3aec06.png">
 # amath482_DataAnalysis
 This repository holds projects done for the course AMATH 482: Computational Methods for Data Analysis. Five projects are included; each folder contains a final report and MATLAB code detailing the methods used and results obtained in the project.
 - hw1: Noisy ultrasound analysis with Fourier Transform and Gussain Filtering 
